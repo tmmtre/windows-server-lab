@@ -10,7 +10,7 @@ stable network communication inside the lab environment.
 2. Go to Network & internet
 3. Then Advance network settings
 4. Select Ethernet in Network adapters
-5. Click Edit on Moro adapter options
+5. Click Edit on More adapter options
 6. Double click on Internet Protocol Version 4 (IPv4)
 
 ## Configuration used in the lab
