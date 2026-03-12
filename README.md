@@ -1,2 +1,1 @@
-# windows-server-lab
-Mini network built with Windows Server
+# Windows Server Lab
