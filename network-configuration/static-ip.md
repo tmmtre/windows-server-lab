@@ -18,9 +18,13 @@ stable network communication inside the lab environment.
 IP Address: 10.0.2.15  
 Subnet Mask: 255.255.255.0  
 Default Gateway: 10.0.2.2  
-DNS Server: 10.0.2.2
+DNS Server: 10.0.2.15
 
 ## Result
+
 The server now uses a static IP address required for domain services.
 
 ## Screenshot
+
+<img width="1019" height="847" alt="image" src="https://github.com/user-attachments/assets/fadcf509-59ca-4eef-b922-9ac4936af2a5" />
+
