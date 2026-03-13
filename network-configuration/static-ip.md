@@ -18,7 +18,7 @@ stable network communication inside the lab environment.
 IP Address: 10.0.2.15  
 Subnet Mask: 255.255.255.0  
 Default Gateway: 10.0.2.2  
-DNS Server: 10.0.2.15
+DNS Server: 10.0.2.15 (still not installed)
 
 ## Result
 
