@@ -19,3 +19,6 @@ Group name: IT Admins
 
 ## Screenshot
 
+<img width="1021" height="854" alt="6" src="https://github.com/user-attachments/assets/7e598bbd-8107-464d-ae68-0c6946647bfc" />
+
+<img width="1022" height="850" alt="7" src="https://github.com/user-attachments/assets/0f80ab33-444d-41c0-a165-6e3a29aa3522" />
