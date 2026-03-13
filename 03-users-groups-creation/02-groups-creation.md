@@ -14,7 +14,7 @@ To create groups in Active Directory for better organization and to manage permi
 7. Search for the user(s) you want to add, select them, and click OK
 
 ## Configuration used in the lab
-Organizational Unit: Groups
+Organizational Unit: Groups  
 Group name: IT Admins
 
 ## Screenshot
