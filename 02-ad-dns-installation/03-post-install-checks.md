@@ -11,7 +11,7 @@ After installing Active Directory Domain Services and DNS, some basic checks wer
 4. Now in the terminal you can use the command nslookup to verify the DNS
 5. And dcdiag to verify that Active Directory services are functioning correctly
 
-## Configuration used
+## Configuration used in the lab
 Forwarder configured: 8.8.8.8
 
 ## Screenshot
