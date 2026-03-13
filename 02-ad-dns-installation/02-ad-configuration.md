@@ -10,9 +10,10 @@ Configure AD Domain Services post-deployment.
 3. Click Next and set a password for the restore
 4. Next until Prerequisites Check and Install
 
-## Result
+## Configuration used in the lab
 Root domain name: home.lab
 
+## Result
 The warning shown in the Active Directory Domain Services configuration wizard is normal in a home lab environment. 
 It appears because there is no parent DNS zone called "lab" on the local network or on the public Internet.
 In this setup, the Domain Controller manages the entire internal DNS infrastructure for the home.lab domain. Since the environment is isolated and self-contained, no external DNS delegation is required.
