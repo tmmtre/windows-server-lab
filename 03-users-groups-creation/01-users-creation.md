@@ -13,7 +13,7 @@ To create user accounts in Active Directory for management and authentication pu
 6. Set a password that meets your domain’s password policy. Optionally, check whats better for that User
 7. Click Next, review the settings, and click Finish to create the user
 
-## Result
+## Configuration used in the lab
 First name: Mario  
 Last name: Rossi  
 User logon name: mrossi  
