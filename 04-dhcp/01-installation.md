@@ -20,3 +20,8 @@ The Role is now installed.
 
 ## Screenshot
 
+![DHCP](images/01.png)
+
+![DHCP](images/02.png)
+
+![DHCP](images/03.png)
