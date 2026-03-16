@@ -16,7 +16,7 @@ Install DHCP Server.
 
 ## Result
 
-The Roles is now installed.
+The Role is now installed.
 
 ## Screenshot
 
