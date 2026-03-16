@@ -7,9 +7,13 @@ After installing Active Directory Domain Services and DNS, some basic checks wer
 
 1. Go to Tools and select DNS
 2. Right click on the DNS Server DC01 and click on Properties
-3. In the tab Forwarders click Edit and add a DNS to resolve external domains.
+3. In the tab Forwarders click Edit and add a DNS to resolve external domains
 4. Now in the terminal you can use the command nslookup to verify the DNS
-5. And dcdiag to verify that Active Directory services are functioning correctly
+5. And dcdiag to verify that Active Directory services are functioning correctly  
+   
+1. If it was not created automatically, you can manually create a Reverse Lookup Zone
+2. In DNS Manager, right-click Reverse Lookup Zones
+3. Follow the wizard and configure the PTR records as shown in the screenshots
 
 ## Configuration used in the lab
 Forwarder configured: 8.8.8.8
