@@ -11,7 +11,8 @@ Install DHCP Server.
 4. Select the server and Next again
 5. Check the role DHCP Server
 6. Next until Confirmation and then Install
-7. 
+7. Go to the flag icon and click Compleate DHCP configuration
+8. Click Next, choose a User Name then Commit and Close
 
 ## Result
 
