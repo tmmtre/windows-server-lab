@@ -13,7 +13,7 @@ Configure a DHCP Server and create a scope for the local network.
 6. Configure the IP address range, then click Next
 7. Add excluded IP addresses if needed (e.g. for printers or servers), then click Next
 8. Configure the Lease Duration, then click Next
-9. Configure the Default Gateway, then click Next
+9. Configure the Default Gateway, click Add then Next
 10. Click Next to skip optional configuration and Activate the scope
 11. To test the configuration, set a Windows client to obtain IP and DNS automatically
 
@@ -27,3 +27,13 @@ Default Gatwway: 192.168.10.1
 The DHCP server successfully assigns IP addresses to clients in the configured range. 
 
 ## Screenshot
+
+![DHCP](images/04.png)
+
+![DHCP](images/05.png)
+
+![DHCP](images/06.png)
+
+![DHCP](images/07.png)
+
+![DHCP](images/08.png)
