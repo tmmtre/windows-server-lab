@@ -19,9 +19,9 @@ Configure a DHCP Server and create a scope for the local network.
 
 ## Configuration used in the lab
 Scope name: S1  
-IP Range: 192.168.10.20/24 - 192.168.10.60/24
-Lease duration: 1 hour
-Default Gatwway: 192.168.10.1
+IP Range: 192.168.10.20/24 - 192.168.10.60/24  
+Lease duration: 1 hour  
+Default Gatwway: 192.168.10.1  
 
 ## Result
 The DHCP server successfully assigns IP addresses to clients in the configured range. 
